@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Courses"
+    android:orientation="vertical"
+    android:layout_margin="20dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mobo Typin Course"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="1dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 1\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn1"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn2"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn3"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn4"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn5"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn6"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn7"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn8"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn9"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn10"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn11"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn12"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn13"
+                />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:text="Lesson 2\nHome row (ASDF JKL:)"
+                android:textStyle="bold"
+                android:padding="5dp"
+                android:id="@+id/btn14"
+                />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
